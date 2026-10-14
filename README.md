@@ -128,7 +128,7 @@ flowchart LR
 
 ---    
  **SPORTS**
----  
+ 
 <p align="center">
 <img src="https://www.gitskins.com/api/section/chess?username=thisishritik&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F337048592%3Fu%3D0bf40a10c9f5837044f88531097adfb618eaaf0e%26v%3D4&v=showcase-chess-2" alt="Hritik Kumar chess visual" />
 </p>
@@ -147,5 +147,9 @@ flowchart LR
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1f6feb&height=120&section=footer&text=Learning%20every%20day%20%C2%B7%20Securing%20the%20future&fontSize=18&fontColor=ffffff&fontAlignY=70" width="100%" alt="Footer: Learning every day, securing the future" />
+## 🏏 Beyond Code
 
+<p align="center">
+<img src="./assets/cricket.svg" width="100%" alt="Hritik Kumar cricket visual" />
+</p>
 </div>
