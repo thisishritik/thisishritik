@@ -5,7 +5,7 @@
   <img src="https://www.gitskins.com/api/section/hero?username=thisishritik&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F337048592%3Fv%3D4&variant=living-identity&label=Hritik%20Kumar&v=wow-living-identity-1&mode=dark" width="100%" alt="Hritik Kumar" />
 </picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&height=45&lines=BCA+Student;Aspiring+Cybersecurity+Expert;Ethical+Hacking+%26+Network+Security;Future+MCA+%2B+MBA" alt="Typing animation: BCA Student, Aspiring Cybersecurity Expert, Ethical Hacking and Network Security, Future MCA and MBA" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&height=45&lines=BCA+Student;Aspiring+Cybersecurity+Expert;Ethical+Hacking+%26+Network+Security;Future+MCA+%2B+MBA" alt="Typing animation: BCA Student, Aspiring Cybersecurity Expert, GRAPHIC DESIGNER , AI/ML ENGINEER" />
 
 ![Location](https://img.shields.io/badge/Saharsa-Bihar%2C_India-555555?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![BCA](https://img.shields.io/badge/BCA-Pursuing-1f6feb?style=for-the-badge)
