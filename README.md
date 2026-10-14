@@ -127,7 +127,9 @@ flowchart LR
 ![Metasploit](https://img.shields.io/badge/Metasploit-2f6fdb?style=for-the-badge&logo=metasploit&logoColor=white)
 
 ---
-
+<p align="center">
+<img src="https://www.gitskins.com/api/section/chess?username=thisishritik&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F337048592%3Fu%3D0bf40a10c9f5837044f88531097adfb618eaaf0e%26v%3D4&v=showcase-chess-2" alt="Hritik Kumar chess visual" />
+</p>
 ## 🌐 Connect With Me
 
 <div align="center">
