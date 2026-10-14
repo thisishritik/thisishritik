@@ -126,10 +126,16 @@ flowchart LR
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2f6fdb?style=for-the-badge&logo=metasploit&logoColor=white)
 
----
+---    
+ **SPORTS **
 <p align="center">
 <img src="https://www.gitskins.com/api/section/chess?username=thisishritik&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F337048592%3Fu%3D0bf40a10c9f5837044f88531097adfb618eaaf0e%26v%3D4&v=showcase-chess-2" alt="Hritik Kumar chess visual" />
 </p>
+
+<p align="center">
+<img src="https://www.gitskins.com/api/section/cricket?username=thisishritik&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F337048592%3Fu%3D0bf40a10c9f5837044f88531097adfb618eaaf0e%26v%3D4&v=showcase-cricket-2" alt="Hritik Kumar cricket visual" />
+</p>
+
 ## 🌐 Connect With Me
 
 <div align="center">
